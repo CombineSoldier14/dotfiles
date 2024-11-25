@@ -6,7 +6,7 @@ Meant to be used on Arch Linux, with [Chaotic AUR.](https://aur.chaotic.cx/)
 
 Run these commands for dependencies:
 
-`sudo pacman -S hyprlock grim slurp hyprpaper waybar kitty fish hyprland snapper`
+`sudo pacman -S hyprlock grim slurp hyprpaper waybar kitty fish hyprland fuzzel snapper`
 
 Also follow [these](https://wiki.hyprland.org/Useful-Utilities/Screen-Sharing/) steps on Hyprland screen sharing.
 
